@@ -1,0 +1,12 @@
+{
+  "name": "com.acinc.utrano",
+  "version": "0.0.1",
+  "displayName": "Utrano",
+  "description": "Utilities package for and by Aidan Coller",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Aidan Coller",
+    "email": "a.o.coller@student.rug.nl"
+  }
+}
