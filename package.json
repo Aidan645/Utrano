@@ -8,5 +8,8 @@
   "author": {
     "name": "Aidan Coller",
     "email": "a.o.coller@student.rug.nl"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": ""
   }
 }
