@@ -10,6 +10,8 @@
     "email": "a.o.coller@student.rug.nl"
   },
   "dependencies": {
-    "com.unity.textmeshpro": ""
+    "com.unity.textmeshpro": "",
+    "com.unity.xr.interaction.toolkit" : "2.3.2",
+    "com.unity.xr.management" : "4.3.3"
   }
 }

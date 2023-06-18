@@ -1,8 +1,7 @@
 {
-    "name": "GUIEditors",
+    "name": "VREditors",
     "rootNamespace": "",
     "references": [
-        "GUID:1e8c5ffabdf0b2148b80b08fb127ad65",
         "GUID:556852b9d2c3e734aa4b2f6a02d5f9d2"
     ],
     "includePlatforms": [],

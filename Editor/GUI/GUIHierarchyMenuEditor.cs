@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEditor;
 using static ObjectCreateUtility;
 
-public static class HierarchyMenuEditor
+public static class GUIHierarchyMenuEditor
 {
     private const int prio = -50;
     [MenuItem("GameObject/Utrano/GUI/Popup", priority = prio)]
